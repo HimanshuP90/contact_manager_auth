@@ -7,3 +7,10 @@
 3) If user again signup with same credentials then message prompt on screen "That username is already taken."
 4) If user login with wrong credentials then message prompt on the screen "Oops! Wrong password."
 
+Requirement
+
+1) MySQL
+2) Express
+3) Passportjs
+4) Nodejs
+5) EJS
