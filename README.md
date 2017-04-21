@@ -14,3 +14,12 @@ Requirement
 3) Passportjs
 4) Nodejs
 5) EJS
+
+
+For run the code
+
+ git clone https://github.com/HimanshuP90/contact_manager_auth.git
+ npm install
+ npm start
+ go to http//localhost:3000
+
