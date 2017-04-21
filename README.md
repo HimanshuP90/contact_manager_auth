@@ -18,8 +18,8 @@ Requirement
 
 For run the code
 
- git clone https://github.com/HimanshuP90/contact_manager_auth.git
- npm install
- npm start
- go to http//localhost:3000
+1) git clone https://github.com/HimanshuP90/contact_manager_auth.git
+2) npm install
+3) npm start
+4) go to http//localhost:3000
 
